@@ -73,4 +73,4 @@ react-scripts
 
 ## Support
 
-For support, email arif112mohd@gmail.com
+For support, email astik.mishra999@gmail.com
